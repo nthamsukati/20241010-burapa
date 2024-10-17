@@ -1,0 +1,5 @@
+IbarnAPI/.vs/
+IbarnAPI/bin/
+*.user
+*.cache
+IbarnAPI/obj/
